@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\ComPort\ComPort\bin\Release\ComPort.exe.config
+C:\Users\user\source\repos\ComPort\ComPort\bin\Release\ComPort.exe
+C:\Users\user\source\repos\ComPort\ComPort\bin\Release\ComPort.pdb
+C:\Users\user\source\repos\ComPort\ComPort\obj\Release\ComPort.Form1.resources
+C:\Users\user\source\repos\ComPort\ComPort\obj\Release\ComPort.Properties.Resources.resources
+C:\Users\user\source\repos\ComPort\ComPort\obj\Release\ComPort.csproj.GenerateResource.cache
+C:\Users\user\source\repos\ComPort\ComPort\obj\Release\ComPort.exe
+C:\Users\user\source\repos\ComPort\ComPort\obj\Release\ComPort.pdb
+C:\Users\user\source\repos\ComPort\ComPort\bin\Release\ComPort.exe.manifest
+C:\Users\user\source\repos\ComPort\ComPort\bin\Release\ComPort.application
+C:\Users\user\source\repos\ComPort\ComPort\obj\Release\ComPort.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ComPort\ComPort\obj\Release\ComPort.exe.manifest
+C:\Users\user\source\repos\ComPort\ComPort\obj\Release\ComPort.application
